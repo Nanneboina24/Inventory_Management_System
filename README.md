@@ -2,12 +2,12 @@
 Java Swing Application
 
 # Description 
-Materials can be enroll through online interface JAVA SWING and maintained & store via SQLITE.
+Materials can be enroll through interface JAVA SWING and maintained & store via SQLITE.
 
 # About Application
-FRONTEND : JAVA SWING API
-BACK END : SQLITE
-IDE      : NETBEANS
+FRONTEND : JAVA SWING API <br />
+BACK END : SQLITE<br />
+IDE      : NETBEANS<br />
 
 # Modules 
 1) Load
